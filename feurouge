@@ -1,0 +1,17 @@
+let couleur ="rouge";
+
+
+if (couleur=="rouge"){
+    console.log("Arretez vous!");
+}
+else if (couleur=="vert"){
+    console.log("Avancez!");
+}
+
+else if (couleur=="orange"){
+    console.log("Préparez vous a vous arreter");
+}
+
+else {
+    console.log("Mauvaise couleur");
+}
